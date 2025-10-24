@@ -1,0 +1,61 @@
+baseURL = "https://coldmeme.com/"
+languageCode = "en-us"
+title = "coldmeme | Mo khaleel"
+theme = "archie"
+copyright = "© Mohammed Khaleel"
+disqusShortname = "mo khaleel"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[pagination]
+  pagerSize = 3 # articles per page
+
+# Code highlighting
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  mode = "toggle" # dark, light, or auto
+  useCDN = false
+  subtitle = "Developer & Meme Connoisseur"
+  mathjax = false # enable if you need math equations
+  katex = false
+  
+# Social links
+[[params.social]]
+  name = "GitHub"
+  icon = "github"
+  url = "https://github.com/mo7amd"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://linkedin.com/in/muhammad-khalil"
+
+[[params.social]]
+  name = "RSS"
+  icon = "rss"
+  url = "/index.xml"
+
+# Main menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 3
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 4
