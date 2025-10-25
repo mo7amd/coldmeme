@@ -1,28 +1,47 @@
-+++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
-+++
+---
+title: "About"
+date: 2025-10-24
+---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# I Make Things Fast & Ship Them Faster
 
-Hugo makes use of a variety of open source projects including:
+Senior Full-Stack Engineer in Berlin. 10 years turning messy problems into elegant solutions.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## The Quick Version
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I debug production at 3 AM and make it look easy. Ship features that scale. Write code that doesn't make people cry.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+**Last year:** 
+- Built a smart size recommendation system that actually works - 21% fewer "this doesn't fit" returns.
+- Automated deal processing so teams could stop doing spreadsheet hell and start scaling
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+**This year:** Building full-stack systems with Go, Python, and React. The kind that handle real users without falling over.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## You Need Me If
+
+- Your builds take forever and you don't know why
+- "It works on my machine" is becoming a meme in your standup
+- You're scaling and things are breaking in creative ways
+- Your team needs someone who can debug, ship, and mentor
+
+## Stack
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![MUI](https://img.shields.io/badge/-Material--UI-007FFF?style=flat&logo=mui&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+
+And whatever else solves the problem. Not married to any stack.
+
+## Hit Me Up
+
+[Email](mailto:mo7amd.khaled@gmail.com?subject=Let's%20build%20something%20together) [LinkedIn](https://linkedin.com/in/muhammad-khalil)  [GitHub](https://github.com/mo7amd)
 
 
 
+Remote only. Let's build something.
