@@ -20,10 +20,10 @@
   pageRef = "about"
   weight = 10
 
-[[main]]
-  name = "Hand picked"
-  pageRef = "meme"
-  weight = 40
+#[[main]]
+#  name = "Hand picked"
+#  pageRef = "meme"
+#  weight = 40
 
 #[[main]]
 #  name = "example sub-menu 1"
