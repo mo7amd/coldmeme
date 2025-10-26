@@ -73,4 +73,5 @@ title = "Coldmeme | Mo Khaleel"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
+      {rss = "/index.xml"},
 ]
