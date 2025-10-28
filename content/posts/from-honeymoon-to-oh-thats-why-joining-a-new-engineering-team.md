@@ -2,7 +2,7 @@
 title: From Honeymoon to 'Oh, That's Why' Joining a New Engineering Team
 date: 2025-10-26
 tldr: no tldr
-tags: [Primer, todo]
+tags: [onboarding,software-engineering]
 ---
 You've signed the offer. Negotiated the salary. You're bringing your years of experience, your war stories, your battle scars from production incidents. You know how to engineer solutions. You've shipped products. You've seen things.
 
